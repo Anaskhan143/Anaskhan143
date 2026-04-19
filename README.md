@@ -27,11 +27,16 @@ I specialize in:
 ---
 
 ## 📱 Projects
-- [**Flydesk**](https://play.google.com/store/apps/details?id=com.flydesk.app) – Hybrid workspace management platform  
+- [**Flydesk**](https://play.google.com/store/apps/details?id=com.flydesk.app) – Hybrid workspace management platform
+- [**The Law Firm**](https://apps.apple.com/pk/app/the-law-firm/id6740772243) – Instant legal help (UK)
+- [**Spill-App**](https://apps.apple.com/pk/app/spill-app/id1672615367) – Social Media App (Post and Stay anonymous)
+- [**Adsbarter**](https://apps.apple.com/us/app/adsbarter/id1633138202) – Gateway to Earning through social media influence
+- [**042Properties**](https://apps.apple.com/us/app/042properties/id6736513460) – For Real Estate
+- [**Honk.**](https://apps.apple.com/us/app/honk/id6444747622) – Honk(Marker) on maps for other users when there's any hazards.
+- **Teeps** – Real-time feedback & analytics app (Available in Romania)  
 - **Unison Workforce** – EVV system with geo-tracking  
 - **Servr GuestX** – Hotel concierge app  
-- **Occufy** – Professional dating platform  
-- **Teeps** – Real-time feedback & analytics app  
+- **Occufy** – Professional dating platform
 
 ---
 
