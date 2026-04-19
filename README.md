@@ -27,7 +27,7 @@ I specialize in:
 ---
 
 ## 📱 Projects
-- **Flydesk** – Hybrid workspace management platform  
+- [**Flydesk**](https://play.google.com/store/apps/details?id=com.flydesk.app) – Hybrid workspace management platform  
 - **Unison Workforce** – EVV system with geo-tracking  
 - **Servr GuestX** – Hotel concierge app  
 - **Occufy** – Professional dating platform  
