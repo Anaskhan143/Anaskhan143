@@ -21,8 +21,8 @@ I specialize in:
 - **Mobile:** React Native, TypeScript, JavaScript  
 - **State:** Redux, Zustand, Context API  
 - **Backend:** Firebase, Supabase, GraphQL  
-- **Integrations:** REST APIs, Stripe, Apple Pay, Google Pay  
-- **Tools:** Git, Jira, Trello  
+- **Integrations:** REST APIs and Third party integrations.  
+- **Tools:** Git, Github, Jira, Trello, Postman, Figma
 
 ---
 
