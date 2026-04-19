@@ -24,22 +24,6 @@ I specialize in:
 - **Integrations:** REST APIs, Stripe, Apple Pay, Google Pay  
 - **Tools:** Git, Jira, Trello  
 
-## 🛠️ Techn Stack
-
-**Mobile:**
-![React Native](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-**Backend:**
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-**Tools:**
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Docker](https://skillicons.dev/icons?i=docker)
-
 ---
 
 ## 📱 Projects
@@ -61,9 +45,3 @@ I specialize in:
 
 ## 🤝 Connect
 [LinkedIn](https://www.linkedin.com/in/anas-khan-31988b198/) • [Email](mailto:anaskhan.development@gmail.com)
-
-## 📊 GitHub Stats
-
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaskhan143&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anaskhan143&layout=compact&theme=dark&hide_border=true)
