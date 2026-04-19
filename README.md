@@ -40,6 +40,14 @@ I specialize in:
 
 ---
 
+## 🧠 Engineering Philosophy
+
+- **Ownership:** I don't just write code; I manage the project. From self-assigning tasks to meeting store deployment deadlines, I own the delivery.
+- **Documentation:** I believe a project is only as good as its documentation. I document common components as I build them.
+- **Modern Workflow:** I stay at the cutting edge by integrating AI-assisted development into my daily process, allowing for faster iterations and cleaner code architecture.
+
+---
+
 ## ⚙️ What I Focus On
 - Clean and scalable code  
 - Performance optimization  
