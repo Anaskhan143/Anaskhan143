@@ -1,12 +1,12 @@
 # Anas Khan
-**Senior Software Engineer | React Native Developer**
+**Software Developer | React Native Developer**
 
-📍 Rawalpindi, Pakistan  
+📍 Islamabad, Pakistan  
 📩 anaskhan.development@gmail.com  
 
 ---
 
-## 🚀 About Me
+## About Me
 React Native developer with 4+ years of experience building scalable, high-performance mobile apps.
 
 I specialize in:
@@ -17,7 +17,7 @@ I specialize in:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Mobile:** React Native, TypeScript, JavaScript  
 - **State:** Redux, Zustand, Context API  
 - **Backend:** Firebase, Supabase, GraphQL  
@@ -26,7 +26,7 @@ I specialize in:
 
 ---
 
-## 📱 Projects
+## Projects
 - [**Flydesk**](https://play.google.com/store/apps/details?id=com.flydesk.app) – Hybrid workspace management platform
 - [**The Law Firm**](https://apps.apple.com/pk/app/the-law-firm/id6740772243) – Instant legal help (UK)
 - [**Spill-App**](https://apps.apple.com/pk/app/spill-app/id1672615367) – Social Media App (Post and Stay anonymous)
@@ -40,7 +40,7 @@ I specialize in:
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 - **Ownership:** I don't just write code; I manage the project. From self-assigning tasks to meeting store deployment deadlines, I own the delivery.
 - **Documentation:** I believe a project is only as good as its documentation. I document common components as I build them.
@@ -48,7 +48,7 @@ I specialize in:
 
 ---
 
-## ⚙️ What I Focus On
+## What I Focus On
 - Clean and scalable code  
 - Performance optimization  
 - Reusable components  
@@ -56,5 +56,5 @@ I specialize in:
 
 ---
 
-## 🤝 Connect
+## Connect
 [LinkedIn](https://www.linkedin.com/in/anas-khan-31988b198/) • [Email](mailto:anaskhan.development@gmail.com)
